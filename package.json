@@ -1,0 +1,19 @@
+{
+  "name": "mo-connect-api-faker",
+  "version": "1.0.0",
+  "description": "An library to create fake API responses for MonkeyOffice Connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konafets/mo-connect-api-faker.git"
+  },
+  "author": "Stefano Kowalke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Konafets/mo-connect-api-faker/issues"
+  },
+  "homepage": "https://github.com/Konafets/mo-connect-api-faker#readme"
+}
